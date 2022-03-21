@@ -1,2 +1,2 @@
-# Golag
+# Golang
 Golang exercise
